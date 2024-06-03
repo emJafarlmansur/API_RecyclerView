@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UAS7</string>
+    <string name="loginbutton">LOGIN</string>
+    <string name="LogTit">Masuk ke akun kamu</string>
+    <string name="SubTit">Masukkan alamat email dan password kamu di kolom yang sudah disediakan</string>
+    <string name="masukkan_email">Masukkan Email</string>
+    <string name="masukan_password">Masukan Password</string>
+
+</resources>
